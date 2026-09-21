@@ -1,0 +1,29 @@
+.flex-item{
+    width: 50px;
+    height: 50px;
+    border: 1px solid hsl(230, 92%, 5%);
+    color: hwb(240 96% 3%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-container{
+    display: flex;
+    border: 5px solid hsl(357, 90%, 49%);
+    justify-content: space-around;
+}
+.one{
+    background-color: #0741c0;
+}
+.two{
+    background-color: hsl(108, 92%, 34%);
+}
+.three{
+    background-color: hsl(48, 100%, 50%);
+}
+.four{
+    background-color: hwb(313 0% 0%);   
+}
+.five{
+    background-color: hwb(0 0% 0%);
+}
